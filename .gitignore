@@ -1,0 +1,4 @@
+__pycache__/
+scraped_data.json
+product_images/*
+!product_images/.gitkeep
